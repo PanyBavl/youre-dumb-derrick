@@ -24,7 +24,6 @@ button {
   color: white;
   font-size: 50px;
   font-family Georgia, serif;
-  user-select: none;
   border-radius: 5px;
   width: 200px;
 }
